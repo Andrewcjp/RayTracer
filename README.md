@@ -12,7 +12,7 @@ Refractions
 
 OBJ Model Loading
 
-Texturing Curently Only BMP supported
+Texturing Currently Only BMP supported
 
 Normal Mapping
 
