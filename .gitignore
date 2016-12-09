@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/Debug/*
+/x64/*
+/RayTracer/x64/*
+/RayTracer/x64/debug/*
+/RayTracer/x64/release/*
+
+/RayTracer.VC.db
+/RayTracer.sdf
+/RayTracer.VC.VC.opendb
+/RayTracer.VC
+/RayTracer/Debug
+/.vs/RayTracer/v14
+/RayTracer/perlin.h
+/RayTracer/perlin.cpp
